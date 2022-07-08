@@ -1,1 +1,3 @@
-export class SomeOtherNewFeature {}
+export class SomeOtherNewFeature {
+  someMissingThing = "a";
+}
