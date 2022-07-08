@@ -1,5 +1,12 @@
 
 
+## [1.2.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.1.0...1.2.0) (2022-07-08)
+
+
+### Features
+
+* added some other new feature ([d3857f7](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/d3857f7c6f40bf4ce27164a95ed695bf5ab6eb60))
+
 ## 1.1.0 (2022-07-08)
 
 
