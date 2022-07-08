@@ -1,5 +1,12 @@
 
 
+## [1.2.1](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.2.0...1.2.1) (2022-07-08)
+
+
+### Bug Fixes
+
+* added missing thing into the class ([815af09](https://github.com/nick-devs/001-add-a-changelog-to-any-project/commit/815af0905d78a9209415b1a87f31d6fcf623561a))
+
 ## [1.2.0](https://github.com/nick-devs/001-add-a-changelog-to-any-project/compare/1.1.0...1.2.0) (2022-07-08)
 
 
